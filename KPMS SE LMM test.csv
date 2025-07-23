@@ -1,0 +1,1107 @@
+﻿Stimulation Type,Animal ID,Configuration ID,Configuration Type,Selectivity Score,Keep
+TIS,Animal D,E14_46 & E27_58,4-ch,1,1
+TIS,Animal D,E3_34 & E14_46,4-ch,0.850221732,1
+TIS,Animal D,E3_34 & E27_58,4-ch,0.472807455,1
+TIS,Animal F,Configuration A,4-ch,0.24,1
+TIS,Animal F,Configuration B,4-ch,0.33,1
+Biphasic,Animal F,Configuration C,3-ch TL,0.75,1
+Biphasic,Animal F,Configuration D,3-ch TL,0.55,1
+TIS,Animal G,Trial1,4-ch,0.390823295,1
+TIS,Animal G,Trial2,4-ch,0.416997503,1
+TIS,Animal G,Trial3,4-ch,0.454589834,1
+TIS,Animal G,Trial4,4-ch,0.958292848,1
+TIS,Animal G,Trial5,4-ch,1,1
+TIS,Animal G,Trial6,4-ch,1,1
+TIS,Animal G,Trial7,4-ch,1,1
+TIS,Animal G,Trial8,4-ch,1,1
+TIS,Animal G,Trial9,4-ch,0.191224239,1
+TIS,Animal G,Trial10,4-ch,0.670160369,1
+TIS,Animal G,Trial11,4-ch,0.948335012,1
+TIS,Animal G,Trial12,4-ch,0.6151846,1
+TIS,Animal G,Trial12b,4-ch,0.893644686,1
+TIS,Animal G,Trial13,4-ch,0.904982754,1
+TIS,Animal G,Trial14,4-ch,0.937393769,1
+TIS,Animal G,Trial15,4-ch,0.93606656,1
+TIS,Animal G,Trial16,4-ch,0.914507938,1
+TIS,Animal G,Trial17,4-ch,0.931875374,1
+TIS,Animal G,Trial18,4-ch,1,1
+TIS,Animal G,Trial19,4-ch,0.919040761,1
+TIS,Animal G,Trial20,4-ch,0.436077146,1
+TIS,Animal G,Trial21,4-ch,0.547206626,1
+TIS,Animal G,Trial22,4-ch,0.963327604,1
+TIS,Animal G,Trial23,4-ch,1,1
+TIS,Animal G,Trial24,4-ch,0.564186591,1
+TIS,Animal G,Trial25,4-ch,1,1
+TIS,Animal G,Trial26,4-ch,0.854085505,1
+TIS,Animal G,Trial27,4-ch,0.838382241,1
+TIS,Animal G,Trial28,4-ch,0.885590595,1
+TIS,Animal G,Trial29,4-ch,0.870612396,1
+TIS,Animal G,Trial30,4-ch,0.939737344,1
+TIS,Animal G,Trial31,4-ch,0.931297479,1
+Biphasic,Animal H,BTrial1,2-ch,1,1
+Biphasic,Animal H,BTrial2,2-ch,0.20669175,1
+Biphasic,Animal H,BTrial3,2-ch,0.142671517,1
+Biphasic,Animal H,BTrial4,2-ch,0.110858551,1
+Biphasic,Animal H,BTrial5,2-ch,0.40964291,1
+Biphasic,Animal H,BTrial6,2-ch,0.188383172,1
+Biphasic,Animal H,BTrial7,2-ch,1,1
+Biphasic,Animal H,BTrial8,2-ch,1,1
+Biphasic,Animal H,BTrial9,2-ch,1,1
+Biphasic,Animal H,BTrial10,2-ch,1,1
+Biphasic,Animal H,BTrial11,2-ch,0.288059203,1
+Biphasic,Animal H,BTrial12,2-ch,0.11779195,1
+Biphasic,Animal H,BTrial13,2-ch,0.366968813,1
+Biphasic,Animal H,BTrial14,2-ch,0.116631531,1
+Biphasic,Animal H,BTrial15,2-ch,0.115036364,1
+Biphasic,Animal H,BTrial16,2-ch,0.136517227,1
+Biphasic,Animal H,BTrial17,2-ch,1,1
+Biphasic,Animal H,BTrial18,2-ch,1,1
+Biphasic,Animal H,BTrial19,2-ch,1,1
+Biphasic,Animal H,BTrial20,2-ch,1,1
+Biphasic,Animal H,BTrial21,2-ch,1,1
+Biphasic,Animal H,BTrial22,2-ch,1,1
+Biphasic,Animal H,BTrial23,2-ch,1,1
+Biphasic,Animal H,BTrial24,2-ch,1,1
+Biphasic,Animal H,BTrial25,2-ch,0.143961998,1
+Biphasic,Animal H,BTrial26,2-ch,0.213501283,1
+Biphasic,Animal H,BTrial27,2-ch,1,1
+Biphasic,Animal H,BTrial28,2-ch,1,1
+Biphasic,Animal H,BTrial29,2-ch,1,1
+Biphasic,Animal H,BTrial30,2-ch,1,1
+Biphasic,Animal H,BTrial31,2-ch,1,1
+Biphasic,Animal H,BTrial32,2-ch,1,1
+Biphasic,Animal H,MATLAB BP,2-ch,0.242022373,1
+Biphasic,Animal H,MATLAB TL,3-ch TL,0.236049456,1
+Biphasic,Animal H,MATLAB TT,3-ch TT,0.452089729,1
+Biphasic,Animal H,MATLAB BP,2-ch,0.218722875,1
+Biphasic,Animal H,MATLAB TL,3-ch TL,0.151478965,1
+Biphasic,Animal H,MATLAB TT,3-ch TT,0.282932047,1
+Biphasic,Animal H,MATLAB BP,2-ch,0.217454979,1
+Biphasic,Animal H,MATLAB TL,3-ch TL,0.530026765,1
+Biphasic,Animal H,MATLAB TT,3-ch TT,0.208660374,1
+TIS,Animal I,0,4-ch,0.543230238,1
+TIS,Animal I,1,4-ch,0.584368594,1
+TIS,Animal I,2,4-ch,0.972189738,1
+TIS,Animal I,3,4-ch,0.975037338,1
+TIS,Animal I,4,4-ch,0.972189738,1
+TIS,Animal I,5,4-ch,0.975037338,1
+TIS,Animal I,6,4-ch,0.972189738,1
+TIS,Animal I,7,4-ch,0.972189738,1
+TIS,Animal I,8,4-ch,0.931385593,1
+TIS,Animal I,9,4-ch,0.744361895,1
+TIS,Animal I,10,4-ch,0.972189738,1
+TIS,Animal I,11,4-ch,0.975037338,1
+TIS,Animal I,12,4-ch,0.972189738,1
+TIS,Animal I,13,4-ch,0.972189738,1
+TIS,Animal I,14,4-ch,0.975037338,1
+TIS,Animal I,15,4-ch,0.972189738,1
+TIS,Animal I,16,4-ch,0.975037338,1
+TIS,Animal I,17,4-ch,0.972189738,1
+TIS,Animal I,18,4-ch,0.972189738,1
+TIS,Animal I,19,4-ch,0.975037338,1
+TIS,Animal I,20,4-ch,0.975037338,1
+TIS,Animal I,21,4-ch,0.972189738,1
+TIS,Animal I,22,4-ch,0.975037338,1
+TIS,Animal I,23,4-ch,0.975037338,1
+TIS,Animal I,24,4-ch,0.570741085,1
+TIS,Animal I,25,4-ch,0.975037338,1
+TIS,Animal I,26,4-ch,0.707263007,1
+TIS,Animal I,27,4-ch,0.74561968,1
+TIS,Animal I,28,4-ch,1,1
+TIS,Animal I,29,4-ch,1,1
+TIS,Animal I,30,4-ch,1,1
+TIS,Animal I,31,4-ch,1,0
+TIS,Animal I,32,4-ch,0.74620338,1
+TIS,Animal I,33,4-ch,0.743153631,1
+TIS,Animal I,34,4-ch,0.975037338,1
+TIS,Animal I,35,4-ch,0.975037338,1
+TIS,Animal I,36,4-ch,0.975037338,1
+TIS,Animal I,37,4-ch,0.975037338,1
+TIS,Animal I,38,4-ch,0.975037338,1
+TIS,Animal I,39,4-ch,0.975037338,1
+TIS,Animal I,40,4-ch,0.762436362,1
+TIS,Animal I,41,4-ch,0.975037338,1
+TIS,Animal I,42,4-ch,0.739479304,1
+TIS,Animal I,43,4-ch,0.975037338,1
+TIS,Animal I,44,4-ch,1,1
+TIS,Animal I,45,4-ch,1,0
+TIS,Animal I,46,4-ch,1,0
+TIS,Animal I,47,4-ch,1,0
+TIS,Animal I,48,4-ch,0.717331234,1
+TIS,Animal I,49,4-ch,0.737226037,1
+TIS,Animal I,50,4-ch,0.742268376,1
+TIS,Animal I,51,4-ch,0.984233048,1
+TIS,Animal I,52,4-ch,1,1
+TIS,Animal I,53,4-ch,1,0
+TIS,Animal I,54,4-ch,1,0
+TIS,Animal I,55,4-ch,1,1
+TIS,Animal I,56,4-ch,0.689917076,1
+TIS,Animal I,57,4-ch,0.734206375,1
+TIS,Animal I,58,4-ch,0.731469372,1
+TIS,Animal I,59,4-ch,0.741618782,1
+TIS,Animal I,60,4-ch,1,0
+TIS,Animal I,61,4-ch,1,0
+TIS,Animal I,62,4-ch,1,1
+TIS,Animal I,63,4-ch,1,0
+TIS,Animal I,64,4-ch,0.732202893,1
+TIS,Animal I,65,4-ch,0.972189738,1
+TIS,Animal I,66,4-ch,1,0
+TIS,Animal I,67,4-ch,1,0
+TIS,Animal I,68,4-ch,1,1
+TIS,Animal I,69,4-ch,1,1
+TIS,Animal I,70,4-ch,1,1
+TIS,Animal I,71,4-ch,1,0
+TIS,Animal I,72,4-ch,0.972189738,1
+TIS,Animal I,73,4-ch,0.728311962,1
+TIS,Animal I,74,4-ch,0.730770724,1
+TIS,Animal I,75,4-ch,0.728158117,1
+TIS,Animal I,76,4-ch,1,0
+TIS,Animal I,77,4-ch,1,1
+TIS,Animal I,78,4-ch,1,1
+TIS,Animal I,79,4-ch,1,1
+TIS,Animal I,80,4-ch,0.891470607,1
+TIS,Animal I,81,4-ch,0.975037338,1
+TIS,Animal I,82,4-ch,1,0
+TIS,Animal I,83,4-ch,1,0
+TIS,Animal I,84,4-ch,1,1
+TIS,Animal I,85,4-ch,1,1
+TIS,Animal I,86,4-ch,1,1
+TIS,Animal I,87,4-ch,1,1
+TIS,Animal I,88,4-ch,0.975037338,1
+TIS,Animal I,89,4-ch,0.729046169,1
+TIS,Animal I,90,4-ch,1,0
+TIS,Animal I,91,4-ch,1,0
+TIS,Animal I,92,4-ch,1,1
+TIS,Animal I,93,4-ch,1,1
+TIS,Animal I,94,4-ch,1,0
+TIS,Animal I,95,4-ch,1,1
+TIS,Animal I,96,4-ch,0.628566492,1
+TIS,Animal I,97,4-ch,0.728609633,1
+TIS,Animal I,98,4-ch,1,1
+TIS,Animal I,99,4-ch,1,0
+TIS,Animal I,100,4-ch,1,0
+TIS,Animal I,101,4-ch,1,0
+TIS,Animal I,102,4-ch,1,1
+TIS,Animal I,103,4-ch,1,1
+TIS,Animal I,104,4-ch,0.733385026,1
+TIS,Animal I,105,4-ch,0.728283718,1
+TIS,Animal I,106,4-ch,1,1
+TIS,Animal I,107,4-ch,0.663254812,1
+TIS,Animal I,108,4-ch,1,0
+TIS,Animal I,109,4-ch,1,0
+TIS,Animal I,110,4-ch,1,1
+TIS,Animal I,111,4-ch,1,1
+TIS,Animal I,112,4-ch,0.560783128,1
+TIS,Animal I,113,4-ch,0.617898957,1
+TIS,Animal I,114,4-ch,1,1
+TIS,Animal I,115,4-ch,1,1
+TIS,Animal I,116,4-ch,1,0
+TIS,Animal I,117,4-ch,1,1
+TIS,Animal I,118,4-ch,1,0
+TIS,Animal I,119,4-ch,1,1
+TIS,Animal I,120,4-ch,0.683348275,1
+TIS,Animal I,121,4-ch,0.726619602,1
+TIS,Animal I,122,4-ch,1,0
+TIS,Animal I,123,4-ch,0.729046169,1
+TIS,Animal I,124,4-ch,1,1
+TIS,Animal I,125,4-ch,1,0
+TIS,Animal I,126,4-ch,1,1
+TIS,Animal I,127,4-ch,1,1
+TIS,Animal I,0,4-ch,0.392408999,1
+TIS,Animal I,1,4-ch,0.600430997,1
+TIS,Animal I,2,4-ch,0.768334688,1
+TIS,Animal I,3,4-ch,0.785002575,1
+TIS,Animal I,4,4-ch,0.669466359,1
+TIS,Animal I,5,4-ch,0.608516306,1
+TIS,Animal I,6,4-ch,0.817209066,1
+TIS,Animal I,7,4-ch,0.644645606,1
+TIS,Animal I,8,4-ch,0.74669348,1
+TIS,Animal I,9,4-ch,0.780493946,1
+TIS,Animal I,10,4-ch,0.978424784,1
+TIS,Animal I,11,4-ch,0.768187519,1
+TIS,Animal I,12,4-ch,0.786296227,1
+TIS,Animal I,13,4-ch,0.986398553,1
+TIS,Animal I,14,4-ch,0.986398553,1
+TIS,Animal I,15,4-ch,0.986398553,1
+TIS,Animal I,16,4-ch,0.986398553,1
+TIS,Animal I,17,4-ch,0.986398553,1
+TIS,Animal I,18,4-ch,0.986398553,1
+TIS,Animal I,19,4-ch,0.986398553,1
+TIS,Animal I,20,4-ch,0.986398553,1
+TIS,Animal I,21,4-ch,0.986398553,1
+TIS,Animal I,22,4-ch,0.986398553,1
+TIS,Animal I,23,4-ch,0.986398553,1
+TIS,Animal I,24,4-ch,0.986398553,1
+TIS,Animal I,25,4-ch,0.986398553,1
+TIS,Animal I,26,4-ch,0.983632101,1
+TIS,Animal I,27,4-ch,0.774735531,1
+TIS,Animal I,28,4-ch,0.978424784,1
+TIS,Animal I,29,4-ch,0.978424784,1
+TIS,Animal I,30,4-ch,0.978424784,1
+TIS,Animal I,31,4-ch,0.978424784,1
+TIS,Animal I,32,4-ch,0.980980576,1
+TIS,Animal I,33,4-ch,0.957648204,1
+TIS,Animal I,34,4-ch,0.978424784,1
+TIS,Animal I,35,4-ch,0.980980576,1
+TIS,Animal I,36,4-ch,0.978424784,1
+TIS,Animal I,37,4-ch,0.978424784,1
+TIS,Animal I,38,4-ch,0.980980576,1
+TIS,Animal I,39,4-ch,0.978424784,1
+TIS,Animal I,40,4-ch,0.768334688,1
+TIS,Animal I,41,4-ch,0.696031713,1
+TIS,Animal I,42,4-ch,1,0
+TIS,Animal I,43,4-ch,1,1
+TIS,Animal I,44,4-ch,1,1
+TIS,Animal I,45,4-ch,1,1
+TIS,Animal I,46,4-ch,1,0
+TIS,Animal I,47,4-ch,1,0
+TIS,Animal I,48,4-ch,0.975951088,1
+TIS,Animal I,49,4-ch,0.719295648,1
+TIS,Animal I,50,4-ch,0.787529378,1
+TIS,Animal I,51,4-ch,1,0
+TIS,Animal I,52,4-ch,1,0
+TIS,Animal I,53,4-ch,1,1
+TIS,Animal I,54,4-ch,1,0
+TIS,Animal I,55,4-ch,1,0
+TIS,Animal I,56,4-ch,0.975951088,1
+TIS,Animal I,57,4-ch,0.580251419,1
+TIS,Animal I,58,4-ch,1,0
+TIS,Animal I,59,4-ch,1,1
+TIS,Animal I,60,4-ch,1,0
+TIS,Animal I,61,4-ch,1,1
+TIS,Animal I,62,4-ch,1,1
+TIS,Animal I,63,4-ch,1,1
+TIS,Animal I,64,4-ch,0.975951088,1
+TIS,Animal I,65,4-ch,0.978424784,1
+TIS,Animal I,66,4-ch,1,0
+TIS,Animal I,67,4-ch,1,1
+TIS,Animal I,68,4-ch,1,0
+TIS,Animal I,69,4-ch,1,1
+TIS,Animal I,70,4-ch,1,0
+TIS,Animal I,71,4-ch,1,0
+TIS,Animal I,72,4-ch,0.75941849,1
+TIS,Animal I,73,4-ch,0.732111931,1
+TIS,Animal I,74,4-ch,1,1
+TIS,Animal I,75,4-ch,0.760598524,1
+TIS,Animal I,76,4-ch,1,1
+TIS,Animal I,77,4-ch,1,1
+TIS,Animal I,78,4-ch,1,0
+TIS,Animal I,79,4-ch,1,1
+TIS,Animal I,80,4-ch,0.975951088,1
+TIS,Animal I,81,4-ch,0.759254583,1
+TIS,Animal I,82,4-ch,1,0
+TIS,Animal I,83,4-ch,0.783824976,1
+TIS,Animal I,84,4-ch,1,1
+TIS,Animal I,85,4-ch,1,1
+TIS,Animal I,86,4-ch,1,1
+TIS,Animal I,87,4-ch,1,1
+TIS,Animal I,88,4-ch,0.755876738,1
+TIS,Animal I,89,4-ch,0.911208852,1
+TIS,Animal I,90,4-ch,1,1
+TIS,Animal I,91,4-ch,1,1
+TIS,Animal I,92,4-ch,1,1
+TIS,Animal I,93,4-ch,1,0
+TIS,Animal I,94,4-ch,1,0
+TIS,Animal I,95,4-ch,1,0
+TIS,Animal I,96,4-ch,0.975951088,1
+TIS,Animal I,97,4-ch,0.87093169,1
+TIS,Animal I,98,4-ch,1,0
+TIS,Animal I,99,4-ch,1,0
+TIS,Animal I,100,4-ch,1,1
+TIS,Animal I,101,4-ch,1,0
+TIS,Animal I,102,4-ch,1,0
+TIS,Animal I,103,4-ch,1,1
+TIS,Animal I,104,4-ch,0.975951088,1
+TIS,Animal I,105,4-ch,0.645102267,1
+TIS,Animal I,106,4-ch,1,0
+TIS,Animal I,107,4-ch,1,0
+TIS,Animal I,108,4-ch,1,1
+TIS,Animal I,109,4-ch,1,1
+TIS,Animal I,110,4-ch,1,1
+TIS,Animal I,111,4-ch,1,0
+TIS,Animal I,112,4-ch,0.975951088,1
+TIS,Animal I,113,4-ch,0.708800779,1
+TIS,Animal I,114,4-ch,1,1
+TIS,Animal I,115,4-ch,1,0
+TIS,Animal I,116,4-ch,1,0
+TIS,Animal I,117,4-ch,1,1
+TIS,Animal I,118,4-ch,1,1
+TIS,Animal I,119,4-ch,1,0
+TIS,Animal I,120,4-ch,0.751052024,1
+TIS,Animal I,121,4-ch,0.776746416,1
+TIS,Animal I,122,4-ch,1,1
+TIS,Animal I,123,4-ch,1,1
+TIS,Animal I,124,4-ch,1,1
+TIS,Animal I,125,4-ch,1,1
+TIS,Animal I,126,4-ch,1,0
+TIS,Animal I,127,4-ch,0.997226789,0
+TIS,Animal I,0,4-ch,0.58351281,1
+TIS,Animal I,1,4-ch,0.738290723,1
+TIS,Animal I,2,4-ch,0.663441635,1
+TIS,Animal I,3,4-ch,0.564845541,1
+TIS,Animal I,4,4-ch,0.599250518,1
+TIS,Animal I,5,4-ch,0.458627882,1
+TIS,Animal I,6,4-ch,0.700630986,1
+TIS,Animal I,7,4-ch,0.548852348,1
+TIS,Animal I,8,4-ch,0.807020866,1
+TIS,Animal I,9,4-ch,0.975951088,1
+TIS,Animal I,10,4-ch,0.975951088,1
+TIS,Animal I,11,4-ch,0.81676023,1
+TIS,Animal I,12,4-ch,0.975951088,1
+TIS,Animal I,13,4-ch,0.978424784,1
+TIS,Animal I,14,4-ch,0.978424784,1
+TIS,Animal I,15,4-ch,0.834540666,1
+TIS,Animal I,16,4-ch,0.978424784,1
+TIS,Animal I,17,4-ch,0.980980576,1
+TIS,Animal I,18,4-ch,0.980980576,1
+TIS,Animal I,19,4-ch,0.980980576,1
+TIS,Animal I,20,4-ch,0.975951088,1
+TIS,Animal I,21,4-ch,0.978424784,1
+TIS,Animal I,22,4-ch,0.978424784,1
+TIS,Animal I,23,4-ch,0.847754144,1
+TIS,Animal I,24,4-ch,0.978424784,1
+TIS,Animal I,25,4-ch,0.975951088,1
+TIS,Animal I,26,4-ch,0.975951088,1
+TIS,Animal I,27,4-ch,0.975951088,1
+TIS,Animal I,28,4-ch,0.872560211,1
+TIS,Animal I,29,4-ch,0.876258118,1
+TIS,Animal I,30,4-ch,0.878679821,1
+TIS,Animal I,31,4-ch,0.980980576,1
+TIS,Animal I,32,4-ch,0.889686946,1
+TIS,Animal I,33,4-ch,0.901889144,1
+TIS,Animal I,34,4-ch,0.986398553,1
+TIS,Animal I,35,4-ch,0.986398553,1
+TIS,Animal I,36,4-ch,0.980980576,1
+TIS,Animal I,37,4-ch,0.918013704,1
+TIS,Animal I,38,4-ch,0.932784617,1
+TIS,Animal I,39,4-ch,0.978424784,1
+TIS,Animal I,40,4-ch,0.989308977,1
+TIS,Animal I,41,4-ch,0.986398553,1
+TIS,Animal I,42,4-ch,1,0
+TIS,Animal I,43,4-ch,1,0
+TIS,Animal I,44,4-ch,1,1
+TIS,Animal I,45,4-ch,1,1
+TIS,Animal I,46,4-ch,1,0
+TIS,Animal I,47,4-ch,1,1
+TIS,Animal I,48,4-ch,0.983632101,1
+TIS,Animal I,49,4-ch,0.983632101,1
+TIS,Animal I,50,4-ch,0.975951088,1
+TIS,Animal I,51,4-ch,0.943036245,1
+TIS,Animal I,52,4-ch,0.975951088,1
+TIS,Animal I,53,4-ch,0.964524152,1
+TIS,Animal I,54,4-ch,1,1
+TIS,Animal I,55,4-ch,1,1
+TIS,Animal I,56,4-ch,0.954581453,1
+TIS,Animal I,57,4-ch,0.94723918,1
+TIS,Animal I,58,4-ch,1,1
+TIS,Animal I,59,4-ch,1,1
+TIS,Animal I,60,4-ch,1,0
+TIS,Animal I,61,4-ch,1,1
+TIS,Animal I,62,4-ch,1,0
+TIS,Animal I,63,4-ch,0.925184248,1
+TIS,Animal I,64,4-ch,0.912878567,1
+TIS,Animal I,65,4-ch,1,1
+TIS,Animal I,66,4-ch,1,1
+TIS,Animal I,67,4-ch,1,0
+TIS,Animal I,68,4-ch,1,0
+TIS,Animal I,69,4-ch,1,0
+TIS,Animal I,70,4-ch,1,0
+TIS,Animal I,71,4-ch,0.975951088,1
+TIS,Animal I,72,4-ch,0.881010092,1
+TIS,Animal I,73,4-ch,1,1
+TIS,Animal I,74,4-ch,1,1
+TIS,Animal I,75,4-ch,1,1
+TIS,Animal I,76,4-ch,1,1
+TIS,Animal I,77,4-ch,1,1
+TIS,Animal I,78,4-ch,1,0
+TIS,Animal I,79,4-ch,0.884701655,0
+TIS,Animal I,80,4-ch,0.975951088,1
+TIS,Animal I,81,4-ch,1,1
+TIS,Animal I,82,4-ch,1,1
+TIS,Animal I,83,4-ch,1,1
+TIS,Animal I,84,4-ch,1,1
+TIS,Animal I,85,4-ch,1,0
+TIS,Animal I,86,4-ch,1,1
+TIS,Animal I,87,4-ch,0.872336767,1
+TIS,Animal I,88,4-ch,0.786056421,1
+TIS,Animal I,89,4-ch,1,1
+TIS,Animal I,90,4-ch,1,1
+TIS,Animal I,91,4-ch,1,0
+TIS,Animal I,92,4-ch,1,1
+TIS,Animal I,93,4-ch,1,0
+TIS,Animal I,94,4-ch,1,0
+TIS,Animal I,95,4-ch,0.983632101,1
+TIS,Animal I,96,4-ch,0.975951088,1
+TIS,Animal I,97,4-ch,1,0
+TIS,Animal I,98,4-ch,1,0
+TIS,Animal I,99,4-ch,1,0
+TIS,Animal I,100,4-ch,1,0
+TIS,Animal I,101,4-ch,1,1
+TIS,Animal I,102,4-ch,1,0
+TIS,Animal I,103,4-ch,0.822863244,1
+TIS,Animal I,104,4-ch,0.818471177,1
+TIS,Animal I,105,4-ch,1,1
+TIS,Animal I,106,4-ch,1,0
+TIS,Animal I,107,4-ch,1,1
+TIS,Animal I,108,4-ch,1,0
+TIS,Animal I,109,4-ch,1,1
+TIS,Animal I,110,4-ch,1,0
+TIS,Animal I,111,4-ch,0.975951088,1
+TIS,Animal I,112,4-ch,0.975951088,1
+TIS,Animal I,113,4-ch,1,1
+TIS,Animal I,114,4-ch,1,1
+TIS,Animal I,115,4-ch,1,1
+TIS,Animal I,116,4-ch,1,1
+TIS,Animal I,117,4-ch,1,1
+TIS,Animal I,118,4-ch,1,1
+TIS,Animal I,119,4-ch,0.793992943,1
+TIS,Animal I,120,4-ch,0.788139825,1
+TIS,Animal I,121,4-ch,1,0
+TIS,Animal I,122,4-ch,1,0
+TIS,Animal I,123,4-ch,1,1
+TIS,Animal I,124,4-ch,1,0
+TIS,Animal I,125,4-ch,1,1
+TIS,Animal I,126,4-ch,1,1
+TIS,Animal I,127,4-ch,1,0
+TIS,Animal J,0,4-ch,1,1
+TIS,Animal J,1,4-ch,1,1
+TIS,Animal J,2,4-ch,1,1
+TIS,Animal J,3,4-ch,1,1
+TIS,Animal J,4,4-ch,1,0
+TIS,Animal J,5,4-ch,0.170551342,1
+TIS,Animal J,6,4-ch,0.005015172,0
+TIS,Animal J,7,4-ch,1,0
+TIS,Animal J,8,4-ch,1,1
+TIS,Animal J,9,4-ch,1,1
+TIS,Animal J,10,4-ch,1,1
+TIS,Animal J,11,4-ch,1,0
+TIS,Animal J,12,4-ch,1,1
+TIS,Animal J,13,4-ch,0.51535226,1
+TIS,Animal J,14,4-ch,0.003208368,0
+TIS,Animal J,15,4-ch,1,0
+TIS,Animal J,16,4-ch,1,1
+TIS,Animal J,17,4-ch,1,1
+TIS,Animal J,18,4-ch,1,1
+TIS,Animal J,19,4-ch,1,0
+TIS,Animal J,20,4-ch,1,0
+TIS,Animal J,21,4-ch,0.246844411,0
+TIS,Animal J,22,4-ch,1,0
+TIS,Animal J,23,4-ch,1,0
+TIS,Animal J,24,4-ch,1,1
+TIS,Animal J,25,4-ch,1,1
+TIS,Animal J,26,4-ch,1,1
+TIS,Animal J,27,4-ch,1,1
+TIS,Animal J,28,4-ch,1,0
+TIS,Animal J,29,4-ch,1,0
+TIS,Animal J,30,4-ch,1,1
+TIS,Animal J,31,4-ch,1,1
+TIS,Animal J,32,4-ch,1,1
+TIS,Animal J,33,4-ch,1,1
+TIS,Animal J,34,4-ch,0.064452271,1
+TIS,Animal J,35,4-ch,0.755504196,1
+TIS,Animal J,36,4-ch,1,1
+TIS,Animal J,37,4-ch,0.600156092,1
+TIS,Animal J,38,4-ch,0.506967288,0
+TIS,Animal J,39,4-ch,0.908350048,0
+TIS,Animal J,40,4-ch,0.735234966,1
+TIS,Animal J,41,4-ch,0.21337389,0
+TIS,Animal J,42,4-ch,0.085073627,0
+TIS,Animal J,43,4-ch,0.484843847,1
+TIS,Animal J,44,4-ch,0.487335998,1
+TIS,Animal J,45,4-ch,1,1
+TIS,Animal J,46,4-ch,1,0
+TIS,Animal J,47,4-ch,1,0
+TIS,Animal J,48,4-ch,0.10491202,0
+TIS,Animal J,49,4-ch,1,1
+TIS,Animal J,50,4-ch,1,1
+TIS,Animal J,51,4-ch,0.28118253,1
+TIS,Animal J,52,4-ch,0.467420879,1
+TIS,Animal J,53,4-ch,1,1
+TIS,Animal J,54,4-ch,1,0
+TIS,Animal J,55,4-ch,1,0
+TIS,Animal J,56,4-ch,1,1
+TIS,Animal J,57,4-ch,1,1
+TIS,Animal J,58,4-ch,1,1
+TIS,Animal J,59,4-ch,0.273472152,0
+TIS,Animal J,60,4-ch,0.603720812,0
+TIS,Animal J,61,4-ch,0.459714224,0
+TIS,Animal J,62,4-ch,1,0
+TIS,Animal J,63,4-ch,1,0
+TIS,Animal J,64,4-ch,1,1
+TIS,Animal J,65,4-ch,1,1
+TIS,Animal J,66,4-ch,1,1
+TIS,Animal J,67,4-ch,0.13470233,0
+TIS,Animal J,68,4-ch,0.47438708,1
+TIS,Animal J,69,4-ch,1,1
+TIS,Animal J,70,4-ch,1,0
+TIS,Animal J,71,4-ch,1,1
+TIS,Animal J,72,4-ch,1,1
+TIS,Animal J,73,4-ch,1,1
+TIS,Animal J,74,4-ch,1,1
+TIS,Animal J,75,4-ch,0.126441379,0
+TIS,Animal J,76,4-ch,0.69419338,1
+TIS,Animal J,77,4-ch,1,1
+TIS,Animal J,78,4-ch,1,0
+TIS,Animal J,79,4-ch,1,0
+TIS,Animal J,80,4-ch,1,1
+TIS,Animal J,81,4-ch,1,1
+TIS,Animal J,82,4-ch,1,1
+TIS,Animal J,83,4-ch,0.238795571,1
+TIS,Animal J,84,4-ch,0.283937081,0
+TIS,Animal J,85,4-ch,1,0
+TIS,Animal J,86,4-ch,1,0
+TIS,Animal J,87,4-ch,1,0
+TIS,Animal J,88,4-ch,1,1
+TIS,Animal J,89,4-ch,1,1
+TIS,Animal J,90,4-ch,1,1
+TIS,Animal J,91,4-ch,0.178528264,0
+TIS,Animal J,92,4-ch,0.224472762,0
+TIS,Animal J,93,4-ch,1,0
+TIS,Animal J,94,4-ch,1,0
+TIS,Animal J,95,4-ch,1,0
+TIS,Animal J,96,4-ch,1,1
+TIS,Animal J,97,4-ch,1,1
+TIS,Animal J,98,4-ch,1,1
+TIS,Animal J,99,4-ch,0.469588768,1
+TIS,Animal J,100,4-ch,0.455360651,1
+TIS,Animal J,101,4-ch,1,0
+TIS,Animal J,102,4-ch,1,0
+TIS,Animal J,103,4-ch,1,1
+TIS,Animal J,104,4-ch,1,1
+TIS,Animal J,105,4-ch,1,0
+TIS,Animal J,106,4-ch,1,0
+TIS,Animal J,107,4-ch,0.392644984,1
+TIS,Animal J,108,4-ch,0.307992121,1
+TIS,Animal J,109,4-ch,1,0
+TIS,Animal J,110,4-ch,1,1
+TIS,Animal J,111,4-ch,1,1
+TIS,Animal J,112,4-ch,1,0
+TIS,Animal J,113,4-ch,1,0
+TIS,Animal J,114,4-ch,1,1
+TIS,Animal J,115,4-ch,0.264034008,1
+TIS,Animal J,116,4-ch,0.167740864,0
+TIS,Animal J,117,4-ch,0.930470353,1
+TIS,Animal J,118,4-ch,1,0
+TIS,Animal J,119,4-ch,1,1
+TIS,Animal J,120,4-ch,1,1
+TIS,Animal J,121,4-ch,1,0
+TIS,Animal J,122,4-ch,1,0
+TIS,Animal J,123,4-ch,0.242772909,0
+TIS,Animal J,124,4-ch,0.417620713,1
+TIS,Animal J,125,4-ch,1,0
+TIS,Animal J,126,4-ch,1,0
+TIS,Animal J,127,4-ch,1,0
+TIS,Animal J,128,4-ch,1,0.41668196
+TIS,Animal J,0,4-ch,1,0
+TIS,Animal J,1,4-ch,1,0
+TIS,Animal J,2,4-ch,1,0
+TIS,Animal J,3,4-ch,1,0
+TIS,Animal J,4,4-ch,1,0
+TIS,Animal J,5,4-ch,1,0
+TIS,Animal J,6,4-ch,1,0
+TIS,Animal J,7,4-ch,1,0
+TIS,Animal J,8,4-ch,1,0
+TIS,Animal J,9,4-ch,1,0
+TIS,Animal J,10,4-ch,1,0
+TIS,Animal J,11,4-ch,1,0
+TIS,Animal J,12,4-ch,1,0
+TIS,Animal J,13,4-ch,1,0
+TIS,Animal J,14,4-ch,1,0
+TIS,Animal J,15,4-ch,1,0
+TIS,Animal J,16,4-ch,1,1
+TIS,Animal J,17,4-ch,1,1
+TIS,Animal J,18,4-ch,1,1
+TIS,Animal J,19,4-ch,1,0
+TIS,Animal J,20,4-ch,1,0
+TIS,Animal J,21,4-ch,1,0
+TIS,Animal J,22,4-ch,1,0
+TIS,Animal J,23,4-ch,1,0
+TIS,Animal J,24,4-ch,1,1
+TIS,Animal J,25,4-ch,1,1
+TIS,Animal J,26,4-ch,1,1
+TIS,Animal J,27,4-ch,1,0
+TIS,Animal J,28,4-ch,1,0
+TIS,Animal J,29,4-ch,1,0
+TIS,Animal J,30,4-ch,1,0
+TIS,Animal J,31,4-ch,1,0
+TIS,Animal J,32,4-ch,1,1
+TIS,Animal J,33,4-ch,1,1
+TIS,Animal J,34,4-ch,1,1
+TIS,Animal J,35,4-ch,1,0
+TIS,Animal J,36,4-ch,1,0
+TIS,Animal J,37,4-ch,1,0
+TIS,Animal J,38,4-ch,1,0
+TIS,Animal J,39,4-ch,1,0
+TIS,Animal J,40,4-ch,1,1
+TIS,Animal J,41,4-ch,1,1
+TIS,Animal J,42,4-ch,1,1
+TIS,Animal J,43,4-ch,1,0
+TIS,Animal J,44,4-ch,1,0
+TIS,Animal J,45,4-ch,1,0
+TIS,Animal J,46,4-ch,1,0
+TIS,Animal J,47,4-ch,1,0
+TIS,Animal J,48,4-ch,1,0
+TIS,Animal J,49,4-ch,1,1
+TIS,Animal J,50,4-ch,1,1
+TIS,Animal J,51,4-ch,1,0
+TIS,Animal J,52,4-ch,1,0
+TIS,Animal J,53,4-ch,1,0
+TIS,Animal J,54,4-ch,1,0
+TIS,Animal J,55,4-ch,1,0
+TIS,Animal J,56,4-ch,1,0
+TIS,Animal J,57,4-ch,1,0
+TIS,Animal J,58,4-ch,0.268183921,0
+TIS,Animal J,59,4-ch,0.522263432,1
+TIS,Animal J,60,4-ch,0.564842554,1
+TIS,Animal J,61,4-ch,1,0
+TIS,Animal J,62,4-ch,1,0
+TIS,Animal J,63,4-ch,1,0
+TIS,Animal J,64,4-ch,1,0
+TIS,Animal J,65,4-ch,1,0
+TIS,Animal J,66,4-ch,1,0
+TIS,Animal J,67,4-ch,0.297960793,0
+TIS,Animal J,68,4-ch,0.061545617,0
+TIS,Animal J,69,4-ch,1,0
+TIS,Animal J,70,4-ch,1,0
+TIS,Animal J,71,4-ch,1,0
+TIS,Animal J,72,4-ch,1,0
+TIS,Animal J,73,4-ch,1,0
+TIS,Animal J,74,4-ch,1,0
+TIS,Animal J,75,4-ch,0.211127034,0
+TIS,Animal J,76,4-ch,0.11966873,0
+TIS,Animal J,77,4-ch,1,0
+TIS,Animal J,78,4-ch,1,0
+TIS,Animal J,79,4-ch,1,0
+TIS,Animal J,80,4-ch,1,0
+TIS,Animal J,81,4-ch,1,0
+TIS,Animal J,82,4-ch,1,0
+TIS,Animal J,83,4-ch,0.21979226,1
+TIS,Animal J,84,4-ch,0.391934574,1
+TIS,Animal J,85,4-ch,1,0
+TIS,Animal J,86,4-ch,1,0
+TIS,Animal J,87,4-ch,1,0
+TIS,Animal J,88,4-ch,1,0
+TIS,Animal J,89,4-ch,1,0
+TIS,Animal J,90,4-ch,1,0
+TIS,Animal J,91,4-ch,1,0
+TIS,Animal J,92,4-ch,1,0
+TIS,Animal J,93,4-ch,1,0
+TIS,Animal J,94,4-ch,1,0
+TIS,Animal J,95,4-ch,1,0
+TIS,Animal J,96,4-ch,1,0
+TIS,Animal J,97,4-ch,1,0
+TIS,Animal J,98,4-ch,1,0
+TIS,Animal J,99,4-ch,1,1
+TIS,Animal J,100,4-ch,1,1
+TIS,Animal J,101,4-ch,1,0
+TIS,Animal J,102,4-ch,1,1
+TIS,Animal J,103,4-ch,1,1
+TIS,Animal J,104,4-ch,1,0
+TIS,Animal J,105,4-ch,1,0
+TIS,Animal J,106,4-ch,1,0
+TIS,Animal J,107,4-ch,0.040789363,0
+TIS,Animal J,108,4-ch,1,0
+TIS,Animal J,109,4-ch,1,0
+TIS,Animal J,110,4-ch,1,0
+TIS,Animal J,111,4-ch,1,0
+TIS,Animal J,112,4-ch,1,0
+TIS,Animal J,113,4-ch,1,0
+TIS,Animal J,114,4-ch,1,0
+TIS,Animal J,115,4-ch,1,1
+TIS,Animal J,116,4-ch,1,1
+TIS,Animal J,117,4-ch,1,0
+TIS,Animal J,118,4-ch,1,1
+TIS,Animal J,119,4-ch,1,1
+TIS,Animal J,120,4-ch,1,0
+TIS,Animal J,121,4-ch,1,0
+TIS,Animal J,122,4-ch,1,0
+TIS,Animal J,123,4-ch,1,1
+TIS,Animal J,124,4-ch,1,1
+TIS,Animal J,125,4-ch,1,0
+TIS,Animal J,126,4-ch,1,0
+TIS,Animal J,127,4-ch,1,0
+TIS,Animal J,128,4-ch,1,0
+Biphasic,Animal K,Channel 3,2-ch,0.93987755,1
+Biphasic,Animal K,Channel 4,2-ch,0.60268934,1
+Biphasic,Animal K,Channel 5,2-ch,0.92900105,1
+Biphasic,Animal K,Channel 6,2-ch,0.92785411,1
+Biphasic,Animal K,Channel 11,2-ch,0.6981033,1
+Biphasic,Animal K,Channel 12,2-ch,0.56437268,1
+Biphasic,Animal K,Channel 13,2-ch,0.34777496,1
+Biphasic,Animal K,Channel 16,2-ch,0.73483752,1
+Biphasic,Animal K,Channel 17,2-ch,0.95594043,1
+Biphasic,Animal K,Channel 20,2-ch,0.34761299,1
+Biphasic,Animal K,Channel 23,2-ch,0.56500824,1
+Biphasic,Animal K,Channel 24,2-ch,0.96183506,1
+Biphasic,Animal K,Channel 25,2-ch,0.95502612,1
+Biphasic,Animal K,Channel 26,2-ch,0.94476873,1
+Biphasic,Animal K,Channel 31,2-ch,0.30881829,1
+Biphasic,Animal K,Channel 32,2-ch,0.51908212,1
+Biphasic,Animal K,Channel 35,2-ch,0.95923087,1
+Biphasic,Animal K,Channel 36,2-ch,0.52956381,1
+Biphasic,Animal K,Channel 37,2-ch,0.76389146,1
+Biphasic,Animal K,Channel 38,2-ch,0.21766401,1
+Biphasic,Animal K,Channel 43,2-ch,0.68543216,1
+Biphasic,Animal K,Channel 44,2-ch,0.54309202,1
+Biphasic,Animal K,Channel 46,2-ch,0.94627559,1
+Biphasic,Animal K,Channel 47,2-ch,0.93757131,1
+Biphasic,Animal K,Channel 50,2-ch,0.34915528,1
+Biphasic,Animal K,Channel 51,2-ch,0.26659225,1
+Biphasic,Animal K,Channel 55,2-ch,0.39733222,1
+Biphasic,Animal K,Channel 56,2-ch,0.90996247,1
+Biphasic,Animal K,Channel 57,2-ch,0.54948837,1
+Biphasic,Animal K,Channel 58,2-ch,0.32454219,1
+Biphasic,Animal K,Channel 63,2-ch,0.94654832,1
+Biphasic,Animal K,Channel 64,2-ch,0.94367862,1
+Biphasic,Animal K,Channel 3,2-ch,0.94,1
+Biphasic,Animal K,Channel 4,2-ch,0.6,1
+Biphasic,Animal K,Channel 5,2-ch,0.93,1
+Biphasic,Animal K,Channel 6,2-ch,0.93,1
+Biphasic,Animal K,Channel 11,2-ch,0.7,1
+Biphasic,Animal K,Channel 12,2-ch,0.56,1
+Biphasic,Animal K,Channel 13,2-ch,0.35,1
+Biphasic,Animal K,Channel 16,2-ch,0.73,1
+Biphasic,Animal K,Channel 17,2-ch,0.96,1
+Biphasic,Animal K,Channel 20,2-ch,0.35,1
+Biphasic,Animal K,Channel 23,2-ch,0.57,1
+Biphasic,Animal K,Channel 24,2-ch,0.96,1
+Biphasic,Animal K,Channel 25,2-ch,0.96,1
+Biphasic,Animal K,Channel 26,2-ch,0.94,1
+Biphasic,Animal K,Channel 31,2-ch,0.31,1
+Biphasic,Animal K,Channel 32,2-ch,0.52,1
+Biphasic,Animal K,Channel 35,2-ch,0.96,1
+Biphasic,Animal K,Channel 36,2-ch,0.53,1
+Biphasic,Animal K,Channel 37,2-ch,0.76,1
+Biphasic,Animal K,Channel 38,2-ch,0.22,1
+Biphasic,Animal K,Channel 43,2-ch,0.69,1
+Biphasic,Animal K,Channel 44,2-ch,0.54,1
+Biphasic,Animal K,Channel 46,2-ch,0.95,1
+Biphasic,Animal K,Channel 47,2-ch,0.94,1
+Biphasic,Animal K,Channel 50,2-ch,0.35,1
+Biphasic,Animal K,Channel 51,2-ch,0.4,1
+Biphasic,Animal K,Channel 55,2-ch,0.4,1
+Biphasic,Animal K,Channel 56,2-ch,0.91,1
+Biphasic,Animal K,Channel 57,2-ch,0.55,1
+Biphasic,Animal K,Channel 58,2-ch,0.32,1
+Biphasic,Animal K,Channel 63,2-ch,0.95,1
+Biphasic,Animal K,Channel 64,2-ch,0.94,1
+Biphasic,Animal L,Channel 1,2-ch,1,1
+Biphasic,Animal L,Channel 2,2-ch,0.33992761,1
+Biphasic,Animal L,Channel 7,2-ch,1.16E-05,1
+Biphasic,Animal L,Channel 14,2-ch,1,1
+Biphasic,Animal L,Channel 17,2-ch,1,1
+Biphasic,Animal L,Channel 20,2-ch,1,1
+Biphasic,Animal L,Channel 21,2-ch,1,1
+Biphasic,Animal L,Channel 22,2-ch,1,1
+Biphasic,Animal L,Channel 24,2-ch,1,1
+Biphasic,Animal L,Channel 25,2-ch,1,1
+Biphasic,Animal L,Channel 26,2-ch,1,1
+Biphasic,Animal L,Channel 31,2-ch,1,1
+Biphasic,Animal L,Channel 32,2-ch,1,1
+Biphasic,Animal L,Channel 35,2-ch,1,1
+Biphasic,Animal L,Channel 36,2-ch,1,1
+Biphasic,Animal L,Channel 37,2-ch,1,1
+Biphasic,Animal L,Channel 38,2-ch,1,1
+Biphasic,Animal L,Channel 41,2-ch,1,1
+Biphasic,Animal L,Channel 42,2-ch,1,1
+Biphasic,Animal L,Channel 46,2-ch,1,1
+Biphasic,Animal L,Channel 47,2-ch,1,1
+Biphasic,Animal L,Channel 59,2-ch,1,1
+Biphasic,Animal L,Channel 60,2-ch,1,1
+Biphasic,Animal L,Channel 61,2-ch,0.1351539,1
+Biphasic,Animal L,Channel 62,2-ch,1,1
+Biphasic,Animal L,Channel 1,2-ch,0.23298873,1
+Biphasic,Animal L,Channel 2,2-ch,0.27458099,1
+Biphasic,Animal L,Channel 7,2-ch,0.1915957,1
+Biphasic,Animal L,Channel 8,2-ch,0.21700721,1
+Biphasic,Animal L,Channel 11,2-ch,0.24596429,1
+Biphasic,Animal L,Channel 13,2-ch,0.25188995,1
+Biphasic,Animal L,Channel 18,2-ch,0.21594521,1
+Biphasic,Animal L,Channel 41,2-ch,0.75053446,1
+Biphasic,Animal L,Channel 45,2-ch,0.11213786,1
+Biphasic,Animal L,Channel 48,2-ch,1,1
+Biphasic,Animal L,Channel 50,2-ch,1,1
+Biphasic,Animal L,Channel 51,2-ch,0.21774104,1
+Biphasic,Animal L,Channel 55,2-ch,1,1
+Biphasic,Animal L,Channel 56,2-ch,1,0
+Biphasic,Animal L,Channel 59,2-ch,0.27320246,1
+Biphasic,Animal L,Channel 60,2-ch,0.26383425,1
+Biphasic,Animal L,Channel 61,2-ch,0.39559472,1
+Biphasic,Animal L,Channel 62,2-ch,1,0
+Biphasic,Animal L,Channel 13,2-ch,0.209857833,1
+Biphasic,Animal L,Channel 57,2-ch,1,0
+Biphasic,Animal L,Channel 1,2-ch,0.132808666,1
+Biphasic,Animal L,Channel 2,2-ch,0.412929157,1
+Biphasic,Animal L,Channel 5,2-ch,0.292032315,1
+Biphasic,Animal L,Channel 6,2-ch,0.30737761,1
+Biphasic,Animal L,Channel 16,2-ch,0.313712323,1
+Biphasic,Animal L,Channel 18,2-ch,0.285740853,1
+Biphasic,Animal L,Channel 47,2-ch,0.040313106,1
+Biphasic,Animal L,Channel 51,2-ch,0.305432615,1
+Biphasic,Animal L,Channel 58,2-ch,1,1
+Biphasic,Animal L,Channel 61,2-ch,0.08736019,1
+Biphasic,Animal L,Channel 62,2-ch,1,0
+Biphasic,Animal L,MATLAB BP,2-ch,0.28256324,1
+Biphasic,Animal L,MATLAB BP,2-ch,0.01895929,1
+Biphasic,Animal L,MATLAB TL,3-ch TL,0.42463932,1
+Biphasic,Animal L,MATLAB TL,3-ch TL,0.40270521,1
+Biphasic,Animal L,MATLAB TT,3-ch TT,0.74262799,1
+Biphasic,Animal L,MATLAB TT,3-ch TT,1,0
+TIS,Animal L,0,4-ch,0.246162576,1
+TIS,Animal L,1,4-ch,0.36363975,1
+TIS,Animal L,2,4-ch,1,1
+TIS,Animal L,3,4-ch,1,1
+TIS,Animal L,4,4-ch,0.496440623,1
+TIS,Animal L,5,4-ch,0.242887479,1
+TIS,Animal L,6,4-ch,1,1
+TIS,Animal L,7,4-ch,1,1
+TIS,Animal L,8,4-ch,0.388287603,1
+TIS,Animal L,9,4-ch,0.361443996,1
+TIS,Animal L,10,4-ch,1,1
+TIS,Animal L,11,4-ch,1,1
+TIS,Animal L,12,4-ch,1,1
+TIS,Animal L,13,4-ch,1,1
+TIS,Animal L,14,4-ch,1,1
+TIS,Animal L,15,4-ch,1,1
+TIS,Animal L,16,4-ch,0.404155561,1
+TIS,Animal L,17,4-ch,0.897841964,1
+TIS,Animal L,18,4-ch,1,1
+TIS,Animal L,19,4-ch,1,1
+TIS,Animal L,20,4-ch,1,1
+TIS,Animal L,21,4-ch,1,1
+TIS,Animal L,22,4-ch,1,1
+TIS,Animal L,23,4-ch,1,1
+TIS,Animal L,24,4-ch,0.857287122,1
+TIS,Animal L,25,4-ch,0.717765069,1
+TIS,Animal L,26,4-ch,1,1
+TIS,Animal L,27,4-ch,1,1
+TIS,Animal L,28,4-ch,1,1
+TIS,Animal L,29,4-ch,1,1
+TIS,Animal L,30,4-ch,0.295054993,1
+TIS,Animal L,31,4-ch,0.224905404,1
+TIS,Animal L,32,4-ch,0.513918663,1
+TIS,Animal L,33,4-ch,0.865197452,1
+TIS,Animal L,34,4-ch,1,1
+TIS,Animal L,35,4-ch,0.665974261,1
+TIS,Animal L,36,4-ch,0.465867252,1
+TIS,Animal L,37,4-ch,0.226950918,1
+TIS,Animal L,38,4-ch,1,1
+TIS,Animal L,39,4-ch,0.073595332,1
+TIS,Animal L,40,4-ch,0.282625494,1
+TIS,Animal L,41,4-ch,0.919206864,1
+TIS,Animal L,42,4-ch,1,1
+TIS,Animal L,43,4-ch,1,1
+TIS,Animal L,44,4-ch,1,1
+TIS,Animal L,45,4-ch,1,1
+TIS,Animal L,46,4-ch,1,1
+TIS,Animal L,47,4-ch,0.008222967,1
+TIS,Animal L,48,4-ch,0.376118332,1
+TIS,Animal L,49,4-ch,0.323660831,1
+TIS,Animal L,50,4-ch,1,1
+TIS,Animal L,51,4-ch,1,1
+TIS,Animal L,52,4-ch,1,1
+TIS,Animal L,53,4-ch,1,1
+TIS,Animal L,54,4-ch,1,1
+TIS,Animal L,55,4-ch,1,1
+TIS,Animal L,56,4-ch,0.424904948,1
+TIS,Animal L,57,4-ch,0.330989048,1
+TIS,Animal L,58,4-ch,1,1
+TIS,Animal L,59,4-ch,1,1
+TIS,Animal L,60,4-ch,1,1
+TIS,Animal L,61,4-ch,1,1
+TIS,Animal L,62,4-ch,1,1
+TIS,Animal L,63,4-ch,1,1
+TIS,Animal L,64,4-ch,0.251756117,1
+TIS,Animal L,65,4-ch,0.322418312,1
+TIS,Animal L,66,4-ch,1,1
+TIS,Animal L,67,4-ch,1,1
+TIS,Animal L,68,4-ch,1,1
+TIS,Animal L,69,4-ch,1,1
+TIS,Animal L,70,4-ch,1,1
+TIS,Animal L,71,4-ch,1,1
+TIS,Animal L,72,4-ch,0.262938697,1
+TIS,Animal L,73,4-ch,0.34860312,1
+TIS,Animal L,74,4-ch,1,1
+TIS,Animal L,75,4-ch,1,1
+TIS,Animal L,76,4-ch,1,1
+TIS,Animal L,77,4-ch,1,1
+TIS,Animal L,78,4-ch,1,1
+TIS,Animal L,79,4-ch,1,1
+TIS,Animal L,80,4-ch,0.186592106,1
+TIS,Animal L,81,4-ch,0.320062913,1
+TIS,Animal L,82,4-ch,1,1
+TIS,Animal L,83,4-ch,1,1
+TIS,Animal L,84,4-ch,1,1
+TIS,Animal L,85,4-ch,1,1
+TIS,Animal L,86,4-ch,1,1
+TIS,Animal L,87,4-ch,1,1
+TIS,Animal L,88,4-ch,0.324347673,1
+TIS,Animal L,89,4-ch,0.350737313,1
+TIS,Animal L,90,4-ch,1,1
+TIS,Animal L,91,4-ch,1,1
+TIS,Animal L,92,4-ch,1,1
+TIS,Animal L,93,4-ch,1,1
+TIS,Animal L,94,4-ch,1,1
+TIS,Animal L,95,4-ch,1,1
+TIS,Animal L,96,4-ch,0.206082567,1
+TIS,Animal L,97,4-ch,1,1
+TIS,Animal L,98,4-ch,1,1
+TIS,Animal L,99,4-ch,0.349977578,1
+TIS,Animal L,100,4-ch,1,1
+TIS,Animal L,101,4-ch,1,1
+TIS,Animal L,102,4-ch,1,1
+TIS,Animal L,103,4-ch,1,1
+TIS,Animal L,104,4-ch,0.189782355,1
+TIS,Animal L,105,4-ch,1,1
+TIS,Animal L,106,4-ch,1,1
+TIS,Animal L,107,4-ch,1,1
+TIS,Animal L,108,4-ch,1,1
+TIS,Animal L,109,4-ch,1,1
+TIS,Animal L,110,4-ch,1,1
+TIS,Animal L,111,4-ch,1,1
+TIS,Animal L,112,4-ch,0.449923155,1
+TIS,Animal L,113,4-ch,0.006292893,1
+TIS,Animal L,114,4-ch,1,1
+TIS,Animal L,115,4-ch,1,1
+TIS,Animal L,116,4-ch,1,1
+TIS,Animal L,117,4-ch,1,1
+TIS,Animal L,118,4-ch,1,1
+TIS,Animal L,119,4-ch,1,1
+TIS,Animal L,120,4-ch,0.25888717,1
+TIS,Animal L,121,4-ch,0.35248316,1
+TIS,Animal L,122,4-ch,1,1
+TIS,Animal L,123,4-ch,1,1
+TIS,Animal L,124,4-ch,1,1
+TIS,Animal L,125,4-ch,1,1
+TIS,Animal L,126,4-ch,1,1
+TIS,Animal L,127,4-ch,1,1
+TIS,Animal L,128,4-ch,1,1
+TIS,Animal L,0,4-ch,0.327715687,1
+TIS,Animal L,1,4-ch,0.320553396,1
+TIS,Animal L,2,4-ch,0.446308151,1
+TIS,Animal L,3,4-ch,0.556552852,1
+TIS,Animal L,4,4-ch,0.318617924,1
+TIS,Animal L,5,4-ch,3.21E-05,1
+TIS,Animal L,6,4-ch,0.320597675,1
+TIS,Animal L,7,4-ch,0.324450723,1
+TIS,Animal L,8,4-ch,0.351524373,1
+TIS,Animal L,9,4-ch,0.713603043,1
+TIS,Animal L,10,4-ch,0.308332691,1
+TIS,Animal L,11,4-ch,0.378056053,1
+TIS,Animal L,12,4-ch,0.448346704,1
+TIS,Animal L,13,4-ch,0.380270459,1
+TIS,Animal L,14,4-ch,0.163471012,1
+TIS,Animal L,15,4-ch,0.346132062,1
+TIS,Animal L,16,4-ch,0.35065892,1
+TIS,Animal L,17,4-ch,0.256265185,1
+TIS,Animal L,18,4-ch,0.238083554,1
+TIS,Animal L,19,4-ch,0.242365078,1
+TIS,Animal L,20,4-ch,0.236180762,1
+TIS,Animal L,21,4-ch,0.290485966,1
+TIS,Animal L,22,4-ch,0.159457614,1
+TIS,Animal L,23,4-ch,0.207786325,1
+TIS,Animal L,24,4-ch,0.319406114,1
+TIS,Animal L,25,4-ch,0.23486502,1
+TIS,Animal L,26,4-ch,0.308578455,1
+TIS,Animal L,27,4-ch,0.198425949,1
+TIS,Animal L,28,4-ch,0.203528389,1
+TIS,Animal L,29,4-ch,0.064018237,1
+TIS,Animal L,30,4-ch,0.195887816,1
+TIS,Animal L,31,4-ch,0.299135127,1
+TIS,Animal L,32,4-ch,0.095216671,1
+TIS,Animal L,33,4-ch,0.307859402,1
+TIS,Animal L,34,4-ch,0.232796119,1
+TIS,Animal L,35,4-ch,0.276319115,1
+TIS,Animal L,36,4-ch,0.255704542,1
+TIS,Animal L,37,4-ch,0.269885936,1
+TIS,Animal L,38,4-ch,0.37071984,1
+TIS,Animal L,39,4-ch,0.391193707,1
+TIS,Animal L,40,4-ch,0.278462707,1
+TIS,Animal L,41,4-ch,1,1
+TIS,Animal L,42,4-ch,1,0
+TIS,Animal L,43,4-ch,1,1
+TIS,Animal L,44,4-ch,0.351249295,1
+TIS,Animal L,45,4-ch,0.386869047,1
+TIS,Animal L,46,4-ch,0.313151111,1
+TIS,Animal L,47,4-ch,0.228566879,1
+TIS,Animal L,48,4-ch,0.318710027,1
+TIS,Animal L,49,4-ch,1,1
+TIS,Animal L,50,4-ch,0.344131853,1
+TIS,Animal L,51,4-ch,1,1
+TIS,Animal L,52,4-ch,0.21182991,1
+TIS,Animal L,53,4-ch,0.370568676,1
+TIS,Animal L,54,4-ch,0.228404998,1
+TIS,Animal L,55,4-ch,0.259115364,1
+TIS,Animal L,56,4-ch,0.288033518,1
+TIS,Animal L,57,4-ch,1,0
+TIS,Animal L,58,4-ch,1,0
+TIS,Animal L,59,4-ch,1,1
+TIS,Animal L,60,4-ch,0.727935214,1
+TIS,Animal L,61,4-ch,0.364877801,1
+TIS,Animal L,62,4-ch,0.230584367,1
+TIS,Animal L,63,4-ch,0.240348727,1
+TIS,Animal L,64,4-ch,0.178092303,1
+TIS,Animal L,65,4-ch,1,0
+TIS,Animal L,66,4-ch,1,1
+TIS,Animal L,67,4-ch,1,0
+TIS,Animal L,68,4-ch,1,1
+TIS,Animal L,69,4-ch,0.371790121,1
+TIS,Animal L,70,4-ch,0.28762358,1
+TIS,Animal L,71,4-ch,0.336829249,1
+TIS,Animal L,72,4-ch,0.245321898,1
+TIS,Animal L,73,4-ch,1,0
+TIS,Animal L,74,4-ch,1,0
+TIS,Animal L,75,4-ch,1,0
+TIS,Animal L,76,4-ch,1,0
+TIS,Animal L,77,4-ch,0.403110264,1
+TIS,Animal L,78,4-ch,0.712344195,1
+TIS,Animal L,79,4-ch,0.264098498,1
+TIS,Animal L,80,4-ch,0.003882731,1
+TIS,Animal L,81,4-ch,1,0
+TIS,Animal L,82,4-ch,1,0
+TIS,Animal L,83,4-ch,1,0
+TIS,Animal L,84,4-ch,0.597054314,0
+TIS,Animal L,85,4-ch,0.269466632,1
+TIS,Animal L,86,4-ch,0.318974232,1
+TIS,Animal L,87,4-ch,0.244588286,1
+TIS,Animal L,88,4-ch,0.213223431,1
+TIS,Animal L,89,4-ch,1,0
+TIS,Animal L,90,4-ch,1,0
+TIS,Animal L,91,4-ch,1,0
+TIS,Animal L,92,4-ch,0.384497219,1
+TIS,Animal L,93,4-ch,0.234097024,1
+TIS,Animal L,94,4-ch,0.376077154,1
+TIS,Animal L,95,4-ch,0.012225345,1
+TIS,Animal L,96,4-ch,0.456875179,1
+TIS,Animal L,97,4-ch,0.849301168,1
+TIS,Animal L,98,4-ch,0.858559457,1
+TIS,Animal L,99,4-ch,0.897841964,1
+TIS,Animal L,100,4-ch,0.048056787,1
+TIS,Animal L,101,4-ch,8.01E-06,1
+TIS,Animal L,102,4-ch,3.21E-05,1
+TIS,Animal L,103,4-ch,0.00064931,1
+TIS,Animal L,104,4-ch,0.260739309,1
+TIS,Animal L,105,4-ch,0.323932093,1
+TIS,Animal L,106,4-ch,0.371953522,1
+TIS,Animal L,107,4-ch,0.287764688,1
+TIS,Animal L,108,4-ch,0.234074452,1
+TIS,Animal L,109,4-ch,0.000513019,1
+TIS,Animal L,110,4-ch,0.000970029,1
+TIS,Animal L,111,4-ch,0.00064931,1
+TIS,Animal L,112,4-ch,0.318965951,1
+TIS,Animal L,113,4-ch,0.840232119,1
+TIS,Animal L,114,4-ch,0.877708403,1
+TIS,Animal L,115,4-ch,0.858559457,1
+TIS,Animal L,116,4-ch,0.158462141,1
+TIS,Animal L,117,4-ch,0.001154464,1
+TIS,Animal L,118,4-ch,0.00064931,1
+TIS,Animal L,119,4-ch,0.008222967,1
+TIS,Animal L,120,4-ch,0.310984947,1
+TIS,Animal L,121,4-ch,0.326449483,1
+TIS,Animal L,122,4-ch,0.274057885,1
+TIS,Animal L,123,4-ch,0.318822605,1
+TIS,Animal L,124,4-ch,0.302448906,1
+TIS,Animal L,125,4-ch,0.000128243,1
+TIS,Animal L,126,4-ch,1,0
+TIS,Animal L,127,4-ch,1,0
+TIS,Animal L,128,4-ch,1,0
