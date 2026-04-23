@@ -1,0 +1,9 @@
+# Consistent line endings
+* text=auto
+
+# Notebooks should not be mangled by line-ending normalisation
+*.ipynb binary
+
+# Force LF for shell scripts
+*.sh text eol=lf
+Makefile text eol=lf

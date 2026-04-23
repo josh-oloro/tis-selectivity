@@ -1,0 +1,52 @@
+[metadata]
+name = tis-selectivity
+version = 0.1.0
+description = TIS selectivity analysis – exploratory data analysis and reproducible research toolkit
+authors = [{name = "Josh Oloro"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/josh-oloro/tis-selectivity"
+
+[project]
+dependencies = [
+    "jupyter>=1.0",
+    "notebook>=7.0",
+    "pandas>=2.0",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "scipy>=1.12",
+    "statsmodels>=0.14",
+    "scikit-learn>=1.4",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "ruff>=0.4",
+    "nbmake>=1.5",
+    "pre-commit>=3.7",
+]
+
+[build-system]
+requires = ["setuptools>=70", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--cov=src/tis_selectivity --cov-report=term-missing"
+
+[tool.ruff]
+line-length = 100
+src = ["src"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "ANN"]
+ignore = ["ANN101"]

@@ -1,0 +1,36 @@
+name: Notebook Smoke Test
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "notebooks/**"
+  pull_request:
+    branches: [main]
+    paths:
+      - "notebooks/**"
+  workflow_dispatch:
+
+jobs:
+  notebook-smoke:
+    name: Execute notebooks headlessly
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+
+      - name: Run notebooks with nbmake
+        run: pytest --nbmake notebooks/exploratory/
+        timeout-minutes: 30
