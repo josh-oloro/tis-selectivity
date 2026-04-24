@@ -1,6 +1,6 @@
-# AI-Facilitated Neuromodulation-Induced Movement Analysis
+# AI-Facilitated Neuromodulation-Induced Behavioral Analysis
 
-A computational analysis pipeline for evaluating the **spatial selectivity** of **Temporal Interference Stimulation (TIS)** compared to conventional **biphasic electrical stimulation** in peripheral nerve/motor neuromodulation. This repository accompanies the study published in the *Journal of NeuroEngineering and Rehabilitation*:
+A computational analysis pipeline for evaluating the **movement selectivity** of **Temporal Interference Stimulation (TIS)** compared to conventional **biphasic electrical stimulation** in peripheral nerve/motor neuromodulation. This repository accompanies the study published in the *Journal of NeuroEngineering and Rehabilitation*:
 
 > **Reference:** [10.1186/s12984-025-01825-3](https://link.springer.com/article/10.1186/s12984-025-01825-3)
 
