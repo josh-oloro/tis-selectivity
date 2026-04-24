@@ -117,4 +117,4 @@ skopt (scikit-optimize)
 
 If you use this code or data, please cite:
 
-> *[Authors].* Selectivity of Temporal Interference Stimulation compared to biphasic stimulation for peripheral neuromodulation. *Journal of NeuroEngineering and Rehabilitation*, 2025. https://doi.org/10.1186/s12984-025-01825-3
+> *Olorocisimo J.P., et. al.* Selectivity of Temporal Interference Stimulation compared to biphasic stimulation for peripheral neuromodulation. *Journal of NeuroEngineering and Rehabilitation*, 2025. https://doi.org/10.1186/s12984-025-01825-3
