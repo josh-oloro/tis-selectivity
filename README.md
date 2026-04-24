@@ -41,21 +41,21 @@ Raw DLC Tracking CSVs
    - Compute frame-wise Euclidean displacement features
         │
         ▼
-2. Behavioral Segmentation (Josh-KPMS.ipynb)
+2. Clustering Analysis (Josh-cluster-batch12.ipynb)
+   - Reduce kinematic features with UMAP (3D, Bayesian-optimized hyperparameters)
+   - Cluster with HDBSCAN to identify movement groups
+   - Evaluate with Silhouette Score, Adjusted Rand Index (ARI), and AMI
+        │
+        ▼
+3. Behavioral Segmentation (Josh-KPMS.ipynb)
    - Apply KeyPoint-MoSeq to segment movement into discrete behavioral syllables
    - Count syllable usage per stimulation trial and electrode configuration
         │
         ▼
-3. Selectivity Index Computation (Josh-KPMS.ipynb)
+4. Selectivity Index Computation (Josh-KPMS.ipynb)
    - Convert syllable counts to probability distributions across trials
    - Compute Shannon entropy (base-2) over syllable distributions
    - Selectivity Index = 1 − entropy (higher = more selective activation)
-        │
-        ▼
-4. Clustering Analysis (Josh-cluster-batch12.ipynb)
-   - Reduce kinematic features with UMAP (3D, Bayesian-optimized hyperparameters)
-   - Cluster with HDBSCAN to identify movement groups
-   - Evaluate with Silhouette Score, Adjusted Rand Index (ARI), and AMI
         │
         ▼
 5. Statistical Analysis (Josh-selectivity-analysis.ipynb)
